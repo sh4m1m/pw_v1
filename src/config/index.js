@@ -14,7 +14,7 @@ module.exports = {
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/shamimulhaque',
+      url: 'https://github.com/sh4m1m',
     },
     {
       name: 'Linkedin',
@@ -22,7 +22,7 @@ module.exports = {
     },
     {
       name: 'Facebook',
-      url: 'https://www.facebook.com/sh4mim',
+      url: 'https://www.facebook.com/sh4m1m',
     },
     {
       name: 'Instagram',
