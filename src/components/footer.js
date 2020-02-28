@@ -82,7 +82,7 @@ const Footer = () => (
     </StyledSocial>
     <StyledMetadata>
       <StyledGitHubLink>
-        <div>Hosted on Netlify</div>
+        <div>Hosted by Shamim</div>
       </StyledGitHubLink>
     </StyledMetadata>
   </StyledContainer>
